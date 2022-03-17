@@ -3,6 +3,6 @@
 ## Interface-BCC: 20503
 ## Title:|cffffffffMorrowind|r Level Up!
 ## Author: DonnieDice
-## Version: 1.0.1a
+## Version: 1.0.2
 ## Notes: Grats!
 main.lua
