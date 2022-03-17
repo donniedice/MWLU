@@ -1,0 +1,12 @@
+## Interface: 90200
+## Version: 1.0.2a
+## Title:|cffffffffMorrowind|r Level Up!
+## Author: DonnieDice
+## Notes: Grats!
+
+## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
+## X-Website: https://github.com/donniedice/MWLU
+## X-Curse-Project-ID: 594121
+## X-WoWI-ID: 26259
+
+main.lua
