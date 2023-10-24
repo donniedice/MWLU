@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.0.6
+## Version: 1.0.7
 ## Title:|cff231f20Morrowind|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,8 +7,7 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/MWLU
 ## X-Curse-Project-ID: 594121
-## X-Tukui-ProjectID: 231
 ## X-Wago-ID: VBNBbxNx
 ## X-WoWI-ID: 26259
 
-main.lua
+Core.lua
