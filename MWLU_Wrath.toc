@@ -1,5 +1,5 @@
 ## Interface: 30403
-## Version: 1.0.7
+## Version: 1.0.8
 ## Title:|cff231f20Morrowind|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
